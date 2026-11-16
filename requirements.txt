@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.8
+numpy
+ultralytics>=8.0
+lap
